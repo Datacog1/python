@@ -5,7 +5,7 @@ timmy.color("green")
 
 # Screen() is the class and my_screen is object
 my_screen = Screen()
-
+my_screen.bgcolor("azure")
 
 timmy.shape("turtle")
 timmy.shapesize(7,7,4)
